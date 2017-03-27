@@ -1,5 +1,7 @@
 # babel-plugin-inline-dotenv
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/brysgo/babel-plugin-inline-dotenv.svg)](https://greenkeeper.io/)
+
 Load your `.env` file and replace `process.env.MY_VARIABLE` with the value you set.
 
 tl;dr
